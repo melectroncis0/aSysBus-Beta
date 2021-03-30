@@ -1,4 +1,6 @@
 # aSysBus Beta - The Fork of Arduino System Bus from Adlerweb
+Changes in this Beta Release:
+Added support for 4MHz, 10MHz, 20MHz Crystals and improved syntax highlighting in Arduino IDE and Platformio
 
 aSysBus is hard- and software to build a network of arduino nodes using a CAN-bus or other interfaces. It was build as a replacement for [iSysBus<sup>(DE)</sup>](https://www.mikrocontroller.net/articles/Hausbus_Diskussion), which used native AVR code and a java based configuration framework instead of Arduino. It is mostly used for home automation and other control communication.
 
